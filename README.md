@@ -1,7 +1,7 @@
 # Instructions
 
-Copy the cfg files into the
+Copy the config files into the
 
-```C:\Program Files (x86)\Steam\userdata\<your user ID>\730\local\cfg```
+```C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg```
 
-directory and start CS Go.
+directory and start Counter-Strike 2.
